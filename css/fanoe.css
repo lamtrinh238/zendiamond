@@ -419,14 +419,14 @@ html {
 }
 
 body {
-    /*font-family: 'BenchNine', sans-serif;*/
     font-family: 'Open Sans', sans-serif;
-    font-weight: 100;
-	line-height: 1.4;
+    font-weight: 300;
+	line-height: 1.2;
 }
 
 h1 {
-	font-weight: bold;
+    font-family: 'Tinos', sans-serif;
+	font-weight: 700;
 }
 
 h2,
@@ -798,7 +798,7 @@ nav li > ul > li > ul {
 .yellow li,
 .blue li,
 .purple li {
-	font-family: "Merriweather", serif;
+	font-family: "Open Sans", serif;
 }
 
 .dark h1,
